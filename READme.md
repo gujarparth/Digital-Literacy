@@ -20,5 +20,5 @@ The project is divided into five core tasks mapped directly to the course module
 * **`task-3-platforms/`**: Contains activity proof of beginner coding practice on HackerRank, as well as a collaborative 'Digital Literacy Awareness Quiz' built using Google Workspace tools.
     * **Live Quiz Link:** https://forms.gle/8orPwxKCrRWKmXKn9
 * **`task-4-email-etiquette/`**: Features two professional email drafts (an academic extension request and a corporate internship inquiry) alongside a comprehensive "Do's and Don'ts" checklist for responsible student social media use.
-* **`task-5-cybercrime/`**: Contains a detailed case study analyzing Identity Theft targeting students, accompanied by an actionable 8-point online prevention checklist that highlights official Indian cybercrime reporting channels.
+* **`task-5-cybercrime/`**: Contains a detailed case study analyzing Cyberbullying and Doxing within campus communities, accompanied by an actionable online prevention checklist that highlights official cybercrime reporting channels.
 * **`report/`**: Contains the complete written project report (`Project_Report.pdf`) documenting comprehensive reflections, tool usage, and key takeaways from all five modules.
